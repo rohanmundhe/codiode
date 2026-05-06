@@ -284,7 +284,7 @@ The grading pipeline for hardware description languages is significantly more co
 | **GCP Project** | gopim-f7995 |
 | **Project Created** | April 2024 |
 | **GCP Services Active** | Cloud Run, GKE Autopilot, Cloud SQL, Artifact Registry, Secret Manager, IAM |
-| **Contact** | rohanmundhe26@gmail.com |
+| **Contact** | rohanmundhe766@gmail.com |
 | **Credit Requested** | $20,000 USD — 12-month runway for scaling from 10k to 500k users |
 
 ---
