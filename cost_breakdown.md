@@ -1,7 +1,7 @@
 # Google Cloud Credit Application - Codiode.com
 ## Technical Scaling Infrastructure Cost Breakdown
 
-**Applicant:** Rohan Mundhe — rohanmundhe26@gmail.com
+**Applicant:** Rohan Mundhe — rohanmundhe766@gmail.com
 **Project:** gopim-f7995
 **Platform:** [codiode.com](https://codiode.com)
 **Credit Requested:** $20,000 USD
